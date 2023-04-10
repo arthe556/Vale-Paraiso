@@ -1,6 +1,7 @@
 {
   "name": "case2-backend",
   "version": "1.0.0",
+  "homepage": "github-page/",
   "description": "",
   "main": "server.js",
   "author": "",
